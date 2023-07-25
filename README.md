@@ -13,3 +13,10 @@ npx prisma db pull
 ```
 
 Checkout `prisma/schema.prisma`.
+
+
+```
+npx prisma db pull
+```
+
+Checkout `prisma/schema.prisma` again, see the duplicate comment.
