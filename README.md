@@ -1,3 +1,7 @@
+Edit - This has been fixed in Prisma 5.2.0
+
+---
+
 A small repo to demostrate a bug in Prisma 5.0.0
 
 To reproduce:
